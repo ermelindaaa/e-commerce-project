@@ -32,6 +32,7 @@ const nextConfig = {
         source: '/:path*',
       })
     }
+  
 
     // Set the `Content-Security-Policy` header as a security measure to prevent XSS attacks
     // It works by explicitly whitelisting trusted sources of content for your website
